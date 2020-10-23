@@ -1,0 +1,21 @@
+.admintitle{
+	text-align: center;
+	background-color: powderblue;
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 140px;
+	line-height:140px;
+	border: 2px solid #122B71;
+        border-radius: 12px;
+}
+
+.dashboard{
+	background-color: #7DBCEE;
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 140px;
+	font-size: 20px;
+        border: 2px solid #3652A4;
+        border-radius: 12px;
+
+}
